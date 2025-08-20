@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Test Deploy"
 date:   2025-08-20 20:49:09 +0700
-categories: jekyll update
+categories: blog
 ---
 
 ***Okay***
